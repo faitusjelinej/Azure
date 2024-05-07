@@ -4,8 +4,8 @@ import asyncio #asyncronos IO
 import datafile
 
 
-endpoint = "https://cosmosdbdemofaitus.documents.azure.com:443/"
-key = "Bx4umybrTXcuPNvb96AFSaFXSoE08RWqtV51vDYL3L8LNzROl4AJ3KMPvEdJ3E228qAyMXtNs6w3ACDbEI9lHg=="
+endpoint = ""
+key = ""
 
 
 
